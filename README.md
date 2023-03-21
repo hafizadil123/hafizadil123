@@ -1,5 +1,5 @@
 <h1 align="center">Hey Folks 👋, I'm Adil Sikandar</h1>
-<h3 align="center">A passionate javascript developer from Canada. 😎</h3>
+<h3 align="center">A passionate javascript developer from Pakistan. 😎</h3>
 
 <p align="left"><a href="https://twitter.com/hafizadil123" target="blank"><img src="https://img.shields.io/twitter/follow/hafizadil123?logo=twitter&style=for-the-badge" alt="adilsikandar" /></a> 
 
